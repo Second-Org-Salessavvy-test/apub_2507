@@ -1,0 +1,7 @@
+This is a test file committed to the Testing445 branch.
+
+Purpose:
+• To verify branch creation from main.
+• To test commit and PR workflow.
+
+File created on: 2025-08-12
