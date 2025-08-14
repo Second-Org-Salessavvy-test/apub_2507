@@ -1,0 +1,14 @@
+This is a test file created in the branch 'garvit14aug1' of the repository 'Second-Org-Salessavvy-test/apub_2507'.
+
+• Purpose: To validate commit and branch creation workflow.
+• Branch: garvit14aug1
+• Repository: Second-Org-Salessavvy-test/apub_2507
+
+ASCII Table (Sample):
+
++---------+-----------------------------+
+| Branch  | garvit14aug1                |
+| Repo    | Second-Org-Salessavvy-test/apub_2507 |
++---------+-----------------------------+
+
+File successfully created for workflow test.
